@@ -1,0 +1,12 @@
+3.99 999 Coca-Cola
+2.99 134 Tymbark
+6899.98 1 Złoty
+1.59 100 chipsy
+4.19 50 ciastka
+2999.0 2 komputer
+1899.0 10 laptop
+2.87 67 paluszki
+5.99 20 pasat
+1.99 200 ryż
+3.65 100 szyneczka
+799.999 12 telefon
